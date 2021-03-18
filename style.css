@@ -1,0 +1,122 @@
+body{
+	background-color: #D4ACA4 ;
+}
+
+
+.header{
+	background-color:  #A05032;
+	height: 100px;
+	width: 1300px;
+	padding-left: 65px;
+	border: 10px dashed white;
+	border-radius: 20px;
+}
+
+
+.header-logo{
+	float: left;
+	color: white;
+	font-size: 70px; 
+	font-family: Pristina;
+}
+
+.header-list{
+	float: left;
+	color: white;
+	font-size: 20px;
+	font-family: Kristen ITC;
+}
+
+span{
+	color:  #D87534;
+}
+
+second-header{
+	background-color: grey;
+	height: 100px;
+	width: 1300px; 
+	font-family: Bradley Hand ITC;
+	margin-top: 100px;
+}
+
+img{
+	height: 280px;
+	width: 280px;
+	border-radius: 70px;
+	padding: 32px;
+	padding-top: 30px;
+
+}
+
+.content1{
+	float: left;
+}
+
+.content2{
+float: left;
+}
+
+.content3{
+	float: left;
+}
+
+.content4{
+	float: left;
+}
+
+.content5{
+	float: left;
+}
+.content6{
+	float: left;
+}
+
+.content7{
+	float: left;
+}
+
+.content8{
+	float: left;
+}
+
+
+.head{
+	text-decoration: none; 
+	color: white;
+	border: 2px solid  #D87534;
+	background-color:  #D87534;
+	border-radius: 20px;
+	font-size: 25px;
+	font-family:Calibri Light;
+}
+
+.images{
+	text-decoration: none; 
+	color: white;
+	border: 2px solid  #D87534;
+	background-color:   #D87534;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+.same{
+	text-decoration: none; 
+	border-bottom:3px dotted black;
+	font-size: 25px;
+	color: white;
+	background-color:  #D87534;
+	border-radius: 20px;
+	font-family:Calibri Light;
+}
+
+.gif_logo{
+	height: 100px;
+	width: 50px;
+	border-radius: 70px;
+}
+
+
+.cart{
+	height: 50px;
+	width: 50px;
+}
