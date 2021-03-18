@@ -1,0 +1,18 @@
+body{
+	background-image: url(albiziabackground2.jpg);
+	background-size: cover;
+}
+
+h1{
+	font-family: Freestyle Script;
+	font-size: 50px;
+}
+
+a{
+	font-family: comic sans ms;
+}
+
+dl{
+	font-family: French Script MT;
+	font-size: 25px;
+}
